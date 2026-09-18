@@ -1,3 +1,8 @@
+//Nama Program : T - Tutor - Soal 2
+//Nama         : Mutiara Afifah
+//NPM          : 140810260022
+//Tanggal Buat : 15 Agustus 2026
+//Deskripsi    : Membuat simulasi mesin minuman yang memproses pembelian, mengecek kecukupan uang dan menghitung pecahan kembalian
 #include <iostream>
 using namespace std;
 int main(){
